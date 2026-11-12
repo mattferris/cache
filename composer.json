@@ -1,0 +1,14 @@
+{
+    "name": "mattferris/cache",
+    "description": "A caching library for PHP",
+    "license": "BSD-2-Clause",
+    "autoload": {
+        "psr-4": { "MattFerris\\Cache\\": "src/" }
+    },
+    "authors": [
+        {
+            "name": "Matt Ferris",
+            "email": "matt@bueller.ca"
+        }
+    ]
+}
